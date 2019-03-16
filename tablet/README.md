@@ -31,8 +31,8 @@ I recommend to turn screen controller connectors to the inside and raspberry pi 
 
 ## Photos:
 
-[Back]: back.jpg
+![Back](back.jpg)
 
-[Front]: front.jpg
+![Front](front.jpg)
 
-[Full]: full.jpg
+![Full](full.jpg)
