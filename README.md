@@ -17,6 +17,8 @@ We put here funny projects that we made for people from 5 to 95 years old some n
 
 [![PiRobot Lego](pirobot/pirobot.jpeg)](pirobot/)
 
+[![Pi Game Station](gamestation/gamestation.jpg)](gamestation/)
+
 [![Caterpillar LED Pane](catpane/catpane.jpg)](catpane/)
 
 [![Wifino](wifino/wifino.jpg)](wifino/)
