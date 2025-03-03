@@ -1,29 +1,24 @@
-# ludigeeks
-fun-filled geeky projects developped by [LudiGeeks community](http://meetup.com/ludigeeks) .
+# LudiGeeks 
 
+LudiGeeks project aims to create and provice activities for everyone that can read - write - count to discover and understand cybersecurity topics by funny hands'on maker activities.
 
-We put here funny projects that we made for people from 5 to 95 years old some need background others doesn't need it.
+Fun-filled geeky projects developped by [WOCSA LudiGeeks project](https://www.wocsa.org/pages/projects.php#ludigeeks) .
 
+We put here funny activities that we made for people from 5 to 95 years old some need background others doesn't need it at all.
 
-[![LudiGeeks](img/home.jpeg)](http://meetup.com/ludigeeks)
+We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
+
+[![LudiGeeks](img/home.jpeg)](https://www.wocsa.org/pages/projects.php#ludigeeks)
 
 [![LudiGeeks THSF 2018](img/home2.jpeg)](https://www.thsf.net/workshops.html)
 
-## Projects
+## Activities
 
-[![Tablet DIY](projects/tablet/full.jpg)](tablet/)
+[Secret Box](/projects/secret_box/README.md)
+[Secret Code](/projects/secret_code/README.md)
+[Chat](/projects/chat/README.md)
 
-[![Bracelet LED](projects/bracelet/bracelet.jpeg)](bracelet/)
-
-[![PiRobot Lego](projects/pirobot/pirobot.jpeg)](pirobot/)
-
-[![Pi Game Station](projects/gamestation/gamestation.jpeg)](gamestation/)
-
-[![Caterpillar LED Pane](projects/catpane/catpane.jpg)](catpane/)
-
-[![Wifino](projects/wifino/wifino.jpg)](wifino/)
-
-Other projects Coming soon...
+Other activities Coming soon...
 
 
 
