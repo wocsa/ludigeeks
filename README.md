@@ -21,5 +21,10 @@ We put here funny activities that we made for people from 5 to 95 years old some
 Other activities Coming soon...
 We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
 
+## Local communities
+### France
+- Toulouse https://www.meetup.com/fr-FR/ludigeeks-toulouse/
+- Paris https://www.meetup.com/wocsa-paris/ 
+
 
 
