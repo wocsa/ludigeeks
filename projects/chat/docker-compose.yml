@@ -1,0 +1,10 @@
+version: '2'
+services:
+  wocsa-website:
+    build: .
+    environment:
+        XDEBUG_CONFIG: remote_host=172.18.0.1 remote_port=9000 remote_enable=1
+    ports:
+      - "5001:80"
+    volumes:
+      - ./src:/var/www/html
