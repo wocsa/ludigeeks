@@ -25,8 +25,8 @@ We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
 
 ## Local communities
 ### France
-- Toulouse https://www.meetup.com/fr-FR/ludigeeks-toulouse/
-- Paris https://www.meetup.com/wocsa-paris/ 
+- [Toulouse](https://www.meetup.com/fr-FR/ludigeeks-toulouse/)
+- [Paris](https://www.meetup.com/wocsa-paris/)
 
 
 
