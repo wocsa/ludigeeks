@@ -6,8 +6,6 @@ Fun-filled geeky projects developped by [WOCSA LudiGeeks project](https://www.wo
 
 We put here funny activities that we made for people from 5 to 95 years old some need background others doesn't need it at all.
 
-We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
-
 [![LudiGeeks](img/home.jpeg)](https://www.wocsa.org/pages/projects.php#ludigeeks)
 
 [![LudiGeeks THSF 2018](img/home2.jpeg)](https://www.thsf.net/workshops.html)
@@ -15,10 +13,13 @@ We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
 ## Activities
 
 [Secret Box](/projects/secret_box/README.md)
+
 [Secret Code](/projects/secret_code/README.md)
+
 [Chat](/projects/chat/README.md)
 
 Other activities Coming soon...
+We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
 
 
 
