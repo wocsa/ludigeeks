@@ -1,0 +1,28 @@
+# ANIMATION SHEET
+
+## TITLE OF THE ANIMATION
+
+### OBJECTIVES:
+- 
+
+### DURATION OF THE ANIMATION:
+- 
+
+### NUMBER OF PARTICIPANTS:
+- 
+
+### AGE OF PARTICIPANTS:
+- 
+
+### NECESSARY MATERIAL:
+- 
+
+### ANIMATION PROGRESSION:
+#### Game
+- 
+
+#### Discussion
+- 
+
+#### Debriefing
+- 
