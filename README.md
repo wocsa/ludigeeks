@@ -18,6 +18,8 @@ We put here funny activities that we made for people from 5 to 95 years old some
 
 [Chat](/projects/chat/README.md)
 
+[MinInternet](/projects/mininternet/README.md)
+
 Other activities Coming soon...
 We need volunteers please read [how to contribute](/docs/CONTRIBUTE.md).
 
