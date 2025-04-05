@@ -10,6 +10,8 @@ We put here funny activities that we made for people from 5 to 95 years old some
 
 [![LudiGeeks THSF 2018](img/home2.jpeg)](https://www.thsf.net/workshops.html)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_Mp6rvXFFDY/0.jpg)](https://www.youtube.com/watch?v=_Mp6rvXFFDY)
+
 ## Activities
 
 [Secret Box](/projects/secret_box/README.md)
